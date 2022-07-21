@@ -3,6 +3,8 @@
 *.key
 *.crt
 *.csr
+ca.srl
+
 # Compiled output
 /dist
 /tmp
